@@ -1,2 +1,2 @@
 this is a sample code file
-new line from remote - main branch changes
+new line from remote - dev branch changes
